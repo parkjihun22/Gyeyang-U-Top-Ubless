@@ -146,7 +146,7 @@ const FloorPlanVideos = () => {
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
       <div className={styles.textBox}>
-        <div>계양 반도체클러스터의 눈부신 가치 위에 찾아오는</div>
+        <div>인천계양 유탑유블레스의 눈부신 가치 위에 찾아오는</div>
         <div>유블레스의 가치를 영상으로 확인해보세요</div>
       </div>
 

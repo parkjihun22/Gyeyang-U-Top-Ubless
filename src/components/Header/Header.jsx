@@ -158,11 +158,11 @@ const Header = () => {
     >
       {/* 상단 GIF 배너 */}
       <div className={styles.gifBanner}>
-        <img src={bannerGif} alt="Uptool Banner" />
+        <img src={bannerGif} alt="인천계양 유탑유블레스 Uptool Banner" />
       </div>
       <header className={styles.headerInitial}>
         <Link to="/">
-          <img src={logoImage} alt="Logo" className={styles.logo} />
+          <img src={logoImage} alt="인천계양 유탑유블레스 Logo" className={styles.logo} />
         </Link>
         <div className={styles.itemBox}>
           {/* "모바일 상담예약" 링크를 기존 스타일(a 태그)로 유지하고, 클릭 시 팝업을 열도록 수정 */}

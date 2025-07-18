@@ -69,7 +69,7 @@ const Interior3 = () => {
 			{/*<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="계양 119타입 인테리어안내 image"
+				alt="인천계양 유탑유블레스 119타입 인테리어안내 image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>*/}
 

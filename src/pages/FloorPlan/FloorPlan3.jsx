@@ -65,7 +65,7 @@ const FloorPlan3 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>계양 반도체 클러스터의 눈부신 가치 위에</div>
+				<div>인천계양 유탑유블레스의 눈부신 가치 위에</div>
 				<div>유블레스의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -73,7 +73,7 @@ const FloorPlan3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="계양 84A 평면안내 이미지"
+				alt="인천계양 유탑유블레스 84A 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

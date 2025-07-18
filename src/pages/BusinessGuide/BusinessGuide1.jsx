@@ -158,7 +158,7 @@ const BusinessGuide = () => {
       <img
         className={styles.img3}
         src={currentContent.pageImage}
-        alt={`인천계양 유탑${selectedPhase}단지 조감도`}
+        alt={`인천계양 유탑유블레스${selectedPhase}단지 조감도`}
       />
 	  
 	  {/* 단지 선택 버튼 */}
@@ -183,7 +183,7 @@ const BusinessGuide = () => {
           <img
             className={styles.tableImg}
             src={currentContent.tableImage}
-            alt={`사업개요표 ${selectedPhase}단지`}
+            alt={`인천계양 유탑유블레스 사업개요표 ${selectedPhase}단지`}
           />
         )}
 

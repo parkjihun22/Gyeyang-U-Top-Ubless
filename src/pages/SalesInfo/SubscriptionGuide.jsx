@@ -161,7 +161,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="2,3단지 청약제도 변경안내 이미지1"
+        alt="인천계양 유탑유블레스 청약제도 변경안내 이미지"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 

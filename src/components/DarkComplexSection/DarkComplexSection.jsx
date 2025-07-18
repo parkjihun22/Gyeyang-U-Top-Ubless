@@ -40,7 +40,7 @@ export default function DarkComplexSection() {
       <div className={styles.banner}>
         <img
           src={bennerImg}           // 단지배치도 이미지 미리보기용
-          alt="단지 전경 배너"
+          alt="인천계양 유탑유블레스 단지 전경 배너"
           className={styles.bannerImg}
         />
       </div>

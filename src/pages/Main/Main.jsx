@@ -275,7 +275,7 @@ const handleInputChange = (e) => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="-mainimage1"
+              alt="인천계양 유탑유블레스 -mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
@@ -289,10 +289,10 @@ const handleInputChange = (e) => {
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>
-                  반도체 클러스터의 중심이 될
+                  인천계양의 중심이 될
                 </div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}> 2,3단지</div>
+                <div className={styles.mainImageText}>인천계양 유탑유블레스</div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -371,7 +371,7 @@ const handleInputChange = (e) => {
               </div>
               <img
                 src={section8Img3}
-                alt=" 입지환경소개-image2"
+                alt="인천계양 유탑유블레스 입지환경소개-image2"
               />
             </div>
           </div>
@@ -405,7 +405,7 @@ const handleInputChange = (e) => {
               </div>
               <img
                 src={section2_Image1}
-                alt=" 아파트 조감도-image3"
+                alt="인천계양 유탑유블레스 아파트 조감도-image3"
               />
             </div>
           </div>
@@ -437,7 +437,7 @@ const handleInputChange = (e) => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt=" 브랜드소개-image4"
+                  alt="인천계양 유탑유블레스 브랜드소개-image4"
                 />
                 <div className={styles.text1}></div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
@@ -534,7 +534,7 @@ const handleInputChange = (e) => {
                   </div>
                 </div>
               </div>
-              <img src={map1} alt=" 오시는길안내-image1" />
+              <img src={map1} alt="인천계양 유탑유블레스 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -588,7 +588,7 @@ const handleInputChange = (e) => {
   <img
     src={mobileImageMain}
     className={styles.mainImage}
-    alt=" mobilemain-image1"
+    alt="인천계양 유탑유블레스 mobilemain-image1"
   />
   <div className={styles.overlay}></div>
 
@@ -651,7 +651,7 @@ const handleInputChange = (e) => {
          <div className={styles.mobileMiddleImage}>
            <img
              src={require("../../assets/Bener/event.jpg")}
-            alt="단지 전경 추가 이미지"
+            alt="인천계양 유탑유블레스 단지 전경 추가 이미지"
              className={styles.middleImage}
            />
          </div> */}
@@ -735,7 +735,7 @@ const handleInputChange = (e) => {
             <div>
               <img
                 src={section1_Image1}
-                alt=" 브랜드소개 mobile-image5"
+                alt="인천계양 유탑유블레스 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -802,7 +802,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt=" 오시는길안내-mobileimage2"
+                alt="인천계양 유탑유블레스 오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

@@ -67,12 +67,12 @@ const items = [
         <img
           src={mobileMap}
           className={styles.mapImage}
-          alt="입지환경 지도 1"
+          alt="인천계양 유탑유블레스 입지환경 지도 1"
         />
         <img
           src={mobileMap2}
           className={styles.mapImage}
-          alt="입지환경 지도 2"
+          alt="인천계양 유탑유블레스 입지환경 지도 2"
         />
       </div>
     ),
@@ -170,7 +170,7 @@ function PremiumSlider() {
       onTouchEnd={handleTouchEnd}
     >
       <div className={styles.slide}>
-        <img src={slides[current].img} alt="" />
+        <img src={slides[current].img} alt="인천계양 유탑유블레스" />
         <div className={styles.caption}>
           <h4
             dangerouslySetInnerHTML={{ __html: slides[current].title.replace(/\n/g, "<br/>") }}
@@ -207,7 +207,7 @@ export default function MobileOverviewSection() {
       </header>
 
       {/* ─── 히어로 이미지 ─── */}
-      <img src={heroImage} className={styles.heroImage} alt="단지 전경" />
+      <img src={heroImage} className={styles.heroImage} alt="인천계양 유탑유블레스 단지 전경" />
 
       {/* ─── 아코디언 항목 ─── */}
       {items.map(({ key, label, content }) => (

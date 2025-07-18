@@ -25,11 +25,11 @@ const MobileSectionBox = ({ type, titleImag, title, subText1, subText2}) => {
             {type === "left" ? (
                 <div className={`${isClick ? styles.onClicked : styles.unClicked} ${styles.leftContainer}`} onClick={() => setIsClick(!isClick)}>
                     <div className={styles.backgroundContainer}>
-                        <img src={image} alt="" className={styles.backgroundImage} />
+                        <img src={image} alt="인천계양 유탑유블레스" className={styles.backgroundImage} />
                         <div className={styles.overlay}></div>
                     </div>
                     <div className={styles.left}>
-                        <img src={titleImag} alt="" />
+                        <img src={titleImag} alt="인천계양 유탑유블레스" />
                         <div>{title}</div>
                     </div>
                     {isClick &&
@@ -42,11 +42,11 @@ const MobileSectionBox = ({ type, titleImag, title, subText1, subText2}) => {
             ) : (
                 <div className={`${isClick ? styles.onClicked : styles.unClicked} ${styles.rightContainer}`} onClick={() => setIsClick(!isClick)}>
                     <div className={styles.backgroundContainer}>
-                        <img src={image} alt="" className={styles.backgroundImage} />
+                        <img src={image} alt="인천계양 유탑유블레스" className={styles.backgroundImage} />
                         <div className={styles.overlay}></div>
                     </div>
                     <div className={styles.right}>
-                        <img src={titleImag} alt="title image" />
+                        <img src={titleImag} alt="인천계양 유탑유블레스 title image" />
                         <div>{title}</div>
                     </div>
                     {isClick &&

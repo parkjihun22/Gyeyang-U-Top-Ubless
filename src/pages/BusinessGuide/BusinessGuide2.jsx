@@ -140,12 +140,12 @@ const BusinessGuide2 = () => {
             </p>
 
             <div className={styles.textBox}>
-                <div>계양 반도체클러스터의 눈부신 가치 위에</div>
+                <div>인천계양 유탑유블레스의 눈부신 가치 위에</div>
                 <div>인천계양 유탑유블레스의 새로운 자부심으로 찾아옵니다.</div>
             </div>
 
             {/* ✅ 기존 이미지 부분 주석 처리하고 Ready 컴포넌트 표시 */}
-            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="계양 유탑유블레스 분양일정안내-image1" />
+            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="인천계양 유탑유블레스 분양일정안내-image1" />
             <div className={styles.readyContainer}>
            
             </div>

@@ -27,7 +27,7 @@ export default function UnitPlanSection() {
 
       {/* ─── 배너 (항상 노출) ─── */}
       <div className={styles.banner}>
-        <img src={guideImg} alt="세대안내" className={styles.bannerImg} />
+        <img src={guideImg} alt="인천계양 유탑유블레스 세대안내" className={styles.bannerImg} />
       </div>
 
       {/* ─── 하단 메뉴 (아코디언) ─── */}

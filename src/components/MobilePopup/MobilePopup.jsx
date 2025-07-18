@@ -51,7 +51,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
                     <map name="image-map2">
                         <area 
                             target="_blank" 
-                            alt="관심고객등록" 
+                            alt="인천계양 유탑유블레스 관심고객등록" 
                             title="관심고객등록" 
                             href="" 
                             coords="1,292,359,475"  // page1의 좌표
@@ -64,7 +64,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
                     <map name="image-map1">
                         <area 
                             target="_self" 
-                            alt="입주자 모집 공고" 
+                            alt="인천계양 유탑유블레스 입주자 모집 공고" 
                             title="입주자 모집 공고" 
                             href="" 
                             coords="21,452,289,542"  // page2의 좌표
@@ -72,7 +72,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
                         />
                         <area 
                             target="_self" 
-                            alt="관심고객등록" 
+                            alt="인천계양 유탑유블레스 관심고객등록" 
                             title="관심고객등록" 
                             href="" 
                             coords="346,556,656,439"  // page2의 좌표
@@ -85,7 +85,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
                     <map name="image-map3">
                         <area 
                             target="_self" 
-                            alt="관심고객등록" 
+                            alt="인천계양 유탑유블레스 관심고객등록" 
                             title="" 
                             href="" 
                             coords=""  // page3의 좌표
@@ -93,7 +93,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
                         />
                         <area 
                             target="_self" 
-                            alt="관심고객등록" 
+                            alt="인천계양 유탑유블레스 관심고객등록" 
                             title="" 
                             href="" 
                             coords=""  // page3의 좌표
