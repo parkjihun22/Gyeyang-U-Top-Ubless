@@ -68,7 +68,7 @@ const ComplexGuide1 = () => {
         <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" /> 
         <link
           rel="canonical"
-          href="https://loquegustes.com/ComplexGuide/detailintro"
+          href="https://www.a7lashare.com/ComplexGuide/detailintro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -83,11 +83,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://loquegustes.com/ComplexGuide/detailintro"
+          content="https://www.a7lashare.com/ComplexGuide/detailintro"
         />
         <meta property="og:site_name" content="인천계양 유탑유블레스" />
 
@@ -104,11 +104,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://loquegustes.com/ComplexGuide/detailintro"
+          content="https://www.a7lashare.com/ComplexGuide/detailintro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -120,7 +120,7 @@ const ComplexGuide1 = () => {
 											"name": "인천계양 유탑유블레스- 호수배치도",
 											"description": "인천계양 유탑유블레스의 호수 배치도를 통해 각 세대의 위치와 전망을 확인하세요. 주거 만족도를 높이는 체계적인 배치 설계로 더 나은 라이프스타일을 제안합니다.
 ",
-											"url": "https://loquegustes.com/ComplexGuide/detailintro"
+											"url": "https://www.a7lashare.com/ComplexGuide/detailintro"
 										}
 										`}
         </script>

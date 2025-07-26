@@ -86,15 +86,15 @@ const BusinessGuide = () => {
       title: "인천계양 유탑유블레스- 사업안내",
       description:
         "인천계양 유탑유블레스의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
-      url: "https://loquegustes.com/BusinessGuide/intro",
-      image: "https://loquegustes.com/Main1.png",
+      url: "https://www.a7lashare.com/BusinessGuide/intro",
+      image: "https://www.a7lashare.com/Main1.png",
     },
     3: {
       title: "인천계양 유탑유블레스- 사업안내",
       description:
         "인천계양 유탑유블레스의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
-      url: "https://loquegustes.com/BusinessGuide/intro",
-      image: "https://loquegustes.com/Main1.png",
+      url: "https://www.a7lashare.com/BusinessGuide/intro",
+      image: "https://www.a7lashare.com/Main1.png",
     },
   };
 

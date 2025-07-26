@@ -75,7 +75,7 @@ const FloorPlan1 = () => {
         <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />
         <link
           rel="canonical"
-          href="https://loquegustes.com/FloorPlan/59A"
+          href="https://www.a7lashare.com/FloorPlan/59A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -90,11 +90,11 @@ const FloorPlan1 = () => {
         />
         <meta
           property="og:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://loquegustes.com/FloorPlan/59A"
+          content="https://www.a7lashare.com/FloorPlan/59A"
         />
         <meta property="og:site_name" content="인천계양 유탑유블레스" />
 
@@ -111,11 +111,11 @@ const FloorPlan1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://loquegustes.com/FloorPlan/59A"
+          content="https://www.a7lashare.com/FloorPlan/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -127,7 +127,7 @@ const FloorPlan1 = () => {
 											"name": "인천계양 유탑유블레스- 평면안내",
 											"description": "인천계양 유탑유블레스의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다.
 ",
-											"url": "https://loquegustes.com/FloorPlan/59A"
+											"url": "https://www.a7lashare.com/FloorPlan/59A"
 										}
 										`}
         </script>

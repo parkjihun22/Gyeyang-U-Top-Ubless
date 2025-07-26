@@ -186,7 +186,7 @@ const handleInputChange = (e) => {
         />
         <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://loquegustes.com/" />
+        <link rel="canonical" href="https://www.a7lashare.com/" />
 
         {/* 모바일 친화성을 위한 추가 태그 */}
         <meta name="HandheldFriendly" content="True" />
@@ -201,11 +201,11 @@ const handleInputChange = (e) => {
           property="og:description"
           content="인천계양 유탑유블레스ㅣ☎️(대표)1533-8848ㅣ인천계양 유탑유블레스ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
         />
-        <meta property="og:url" content="https://loquegustes.com/" />
+        <meta property="og:url" content="https://www.a7lashare.com/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://loquegustes.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
+          content="https://www.a7lashare.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
         />
 
         {/* Twitter 카드 설정 */}
@@ -220,7 +220,7 @@ const handleInputChange = (e) => {
         />
         <meta
           name="twitter:image"
-          content="https://loquegustes.com/Main1.png" // 실제 이미지 URL로 변경하세요.
+          content="https://www.a7lashare.com/Main1.png" // 실제 이미지 URL로 변경하세요.
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도를 높이기 위한 스키마 마크업 */}
@@ -231,8 +231,8 @@ const handleInputChange = (e) => {
         "@type": "ApartmentComplex",
         "name": "인천계양 유탑유블레스",
         "description": "브랜드 평판 1위 프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
-        "url": "https://loquegustes.com/",
-        "image": "https://loquegustes.com/Main1.png",
+        "url": "https://www.a7lashare.com/",
+        "image": "https://www.a7lashare.com/Main1.png",
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",

@@ -70,7 +70,7 @@ const BusinessGuide2 = () => {
         <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />
         <link
           rel="canonical"
-          href="https://loquegustes.com/BusinessGuide/plan"
+          href="https://www.a7lashare.com/BusinessGuide/plan"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -85,11 +85,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://loquegustes.com/BusinessGuide/plan"
+          content="https://www.a7lashare.com/BusinessGuide/plan"
         />
         <meta property="og:site_name" content="인천계양 유탑유블레스" />
 
@@ -106,11 +106,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://loquegustes.com/BusinessGuide/plan"
+          content="https://www.a7lashare.com/BusinessGuide/plan"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -122,7 +122,7 @@ const BusinessGuide2 = () => {
                                             "name": "인천계양 유탑유블레스- 분양일정",
                                             "description": "인천계양 유탑유블레스의 최신 분양일정을 확인하고, 분양 일정 및 세부 사항을 이 페이지에서 자세히 확인하세요. 놓치지 마세요!
 ",
-                                            "url": "https://loquegustes.com/BusinessGuide/plan"
+                                            "url": "https://www.a7lashare.com/BusinessGuide/plan"
                                         }
                                         `}
         </script>

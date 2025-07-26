@@ -77,7 +77,7 @@ const FloorPlanVideos = () => {
         <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />
         <link
           rel="canonical"
-          href="https://loquegustes.com/FloorPlan/videos"
+          href="https://www.a7lashare.com/FloorPlan/videos"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -92,11 +92,11 @@ const FloorPlanVideos = () => {
         />
         <meta
           property="og:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://loquegustes.com/FloorPlan/videos"
+          content="https://www.a7lashare.com/FloorPlan/videos"
         />
         <meta property="og:site_name" content="인천계양 유탑유블레스" />
 
@@ -113,11 +113,11 @@ const FloorPlanVideos = () => {
         />
         <meta
           name="twitter:image"
-          content="https://loquegustes.com/Main1.png"
+          content="https://www.a7lashare.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://loquegustes.com/FloorPlan/videos"
+          content="https://www.a7lashare.com/FloorPlan/videos"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -129,7 +129,7 @@ const FloorPlanVideos = () => {
                       "name": "인천계양 유탑유블레스- 평면안내",
                       "description": "세대안내영상 안내 페이지는 인천계양 유탑유블레스의 각 아파트 세대안내영상을 제공합니다.
 ",
-                      "url": "https://loquegustes.com/FloorPlan/videos"
+                      "url": "https://www.a7lashare.com/FloorPlan/videos"
                     }
                     `}
         </script>

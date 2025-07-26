@@ -50,16 +50,16 @@ const Emodel = () => {
         <title>인천계양 유탑유블레스- E-모델하우스</title>
         <meta name="description" content="인천계양 유탑유블레스의 E-모델하우스를 온라인으로 편리하게 둘러보세요." />
         <meta name="keywords" content="계양유블레스, , E-모델하우스, 온라인모델하우스" />
-        <link rel="canonical" href="https://loquegustes.com/FloorPlan/Emodel" />
+        <link rel="canonical" href="https://www.a7lashare.com/FloorPlan/Emodel" />
         <meta property="og:title" content="인천계양 유탑유블레스- E-모델하우스" />
         <meta property="og:description" content="인천계양 유탑유블레스의 E-모델하우스를 온라인으로 편리하게 둘러보세요." />
-        <meta property="og:image" content="https://loquegustes.com/Main1.png" />
-        <meta property="og:url" content="https://loquegustes.com/FloorPlan/Emodel" />
+        <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
+        <meta property="og:url" content="https://www.a7lashare.com/FloorPlan/Emodel" />
         <meta property="og:site_name" content="인천계양 유탑유블레스" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="인천계양 유탑유블레스- E-모델하우스" />
         <meta name="twitter:description" content="인천계양 유탑유블레스의 E-모델하우스를 온라인으로 편리하게 둘러보세요." />
-        <meta name="twitter:image" content="https://loquegustes.com/Main1.png" />
+        <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
       </Helmet>
 
       <Header isChanged={isScroll} />

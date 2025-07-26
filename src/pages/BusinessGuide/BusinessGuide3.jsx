@@ -80,7 +80,7 @@ const BusinessGuide2 = () => {
   		<meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />					
 		<link
 		  rel="canonical"
-		  href="https://loquegustes.com/BusinessGuide/documents"
+		  href="https://www.a7lashare.com/BusinessGuide/documents"
 		/>
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -95,11 +95,11 @@ const BusinessGuide2 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://loquegustes.com/Main1.png"
+		  content="https://www.a7lashare.com/Main1.png"
 		/>
 		<meta
 		  property="og:url"
-		  content="https://loquegustes.com/BusinessGuide/documents"
+		  content="https://www.a7lashare.com/BusinessGuide/documents"
 		/>
 		<meta property="og:site_name" content="인천계양 유탑유블레스" />
 
@@ -116,11 +116,11 @@ const BusinessGuide2 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://loquegustes.com/Main1.png"
+		  content="https://www.a7lashare.com/Main1.png"
 		/>
 		<meta
 		  name="twitter:url"
-		  content="https://loquegustes.com/BusinessGuide/documents"
+		  content="https://www.a7lashare.com/BusinessGuide/documents"
 		/>
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -132,7 +132,7 @@ const BusinessGuide2 = () => {
 											"name": "인천계양 유탑유블레스- 당첨자 서류안내",
 											"description": "인천계양 유탑유블레스선착순계약을 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
 ",
-											"url": "https://loquegustes.com/BusinessGuide/documents"
+											"url": "https://www.a7lashare.com/BusinessGuide/documents"
 										}
 										`}
 		</script>
