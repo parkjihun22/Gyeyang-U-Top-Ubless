@@ -13,9 +13,9 @@ import page1 from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
 
 const ComplexGuide3 = () => {
   const menuContents = [
-    { title: "단지 배치도", url: "/ComplexGuide/intro" },
-    { title: "호수 배치도", url: "/ComplexGuide/detailintro" },
-    { title: "커뮤니티", url: "/ComplexGuide/community" },
+		{ title: "단지 배치도", url: "/ComplexGuide/intro" },
+		{ title: "호수 배치도", url: "/ComplexGuide/detailintro" },
+		// { title: "커뮤니티", url: "/ComplexGuide/community" },
   ];
   const [isScroll, setIsScroll] = useState(false);
   const [isImage2Loaded, setIsImage2Loaded] = useState(false); // 이미지 로딩 상태 추가
@@ -143,7 +143,7 @@ const ComplexGuide3 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>가 눈부신 가치 위에</div>
+        <div>인천계양의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -151,7 +151,7 @@ const ComplexGuide3 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="인천계양 유탑커뮤니티 안내 -image1"
+				alt="인천계양 유탑유블레스 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

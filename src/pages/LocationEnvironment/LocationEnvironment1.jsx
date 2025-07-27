@@ -103,7 +103,7 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>인천계양 유탑유블레스- 입지환경</title>
+        <title>인천계양 유탑유블레스 - 입지환경</title>
         <meta
           name="description"
           content="인천계양 유탑유블레스의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 계양의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
@@ -190,9 +190,9 @@ const LocationEnvironment1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>갈수록 완벽해질 반도체클러스터</div>
-        <div>살수록 높아질 유블레스</div>
-        <div>도시를 압도할 자부심 유블레스</div>
+        <div>갈수록 완벽해질 계양</div>
+        <div>살수록 높아질</div>
+        <div>도시를 압도할 자부심 유탑 유블레스</div>
       </div>
 
       <img

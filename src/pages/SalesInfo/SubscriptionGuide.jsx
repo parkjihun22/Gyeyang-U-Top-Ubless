@@ -13,9 +13,9 @@ import page1 from "../../assets/SalesInfo/SubscriptionGuide/page1.jpg";
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "청약제도변경", url: "/SalesInfo/SubscriptionGuide" },
+    { title: "근리생활-판매시설", url: "/SalesInfo/SubscriptionGuide" },
     // { title: "인터넷 청약", url: "/SalesInfo/guide" },
-    { title: "모집공고안내", url: "/SalesInfo/announcement" },
+    // { title: "모집공고안내", url: "/SalesInfo/announcement" },
     // { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
   ];
 
@@ -61,10 +61,10 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />  
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>인천계양 유탑유블레스- 체크포인트</title>
+        <title>인천계양 유탑유블레스- 근리생활-판매시설</title>
         <meta
           name="description"
-          content="인천계양 유탑유블레스분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="인천계양 유탑유블레스분양 전 필수 근리생활-판매시설을 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
@@ -80,11 +80,11 @@ const ComplexGuide1 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="인천계양 유탑유블레스- 체크포인트"
+          content="인천계양 유탑유블레스- 근리생활-판매시설"
         />
         <meta
           property="og:description"
-          content="인천계양 유탑유블레스분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="인천계양 유탑유블레스분양 전 필수 근리생활-판매시설을 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
@@ -102,11 +102,11 @@ const ComplexGuide1 = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="인천계양 유탑유블레스- 체크포인트"
+          content="인천계양 유탑유블레스- 근리생활-판매시설"
         />
         <meta
           name="twitter:description"
-          content="인천계양 유탑유블레스분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="인천계양 유탑유블레스분양 전 필수 근리생활-판매시설을 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
@@ -125,8 +125,8 @@ const ComplexGuide1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "인천계양 유탑유블레스- 체크포인트",
-                                            "description": "인천계양 유탑유블레스분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+                                            "name": "인천계양 유탑유블레스- 근리생활-판매시설",
+                                            "description": "인천계양 유탑유블레스분양 전 필수 근리생활-판매시설을 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 ",
                                             "url": "https://www.a7lashare.com/SalesInfo/SubscriptionGuide"
@@ -138,15 +138,15 @@ const ComplexGuide1 = () => {
       <Header isChanged={isScroll} />
       <FixIcon />
 
-      <Bener title="체크포인트" />
+      <Bener title="근리생활-판매시설" />
 
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        인천계양 유탑유블레스- 체크포인트
+        인천계양 유탑유블레스- 근리생활-판매시설
       </h1>
       <p className={styles.screenReaderOnly}>
-        인천계양 유탑유블레스분양 전 필수 체크포인트를 확인하세요. 청약
+        인천계양 유탑유블레스분양 전 필수 근리생활-판매시설을 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.
@@ -161,7 +161,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="인천계양 유탑유블레스 청약제도 변경안내 이미지"
+        alt="인천계양 유탑유블레스 근리생활-판매시설 이미지"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 

@@ -47,7 +47,7 @@ const contents = (text, isLoaded) => {
                     지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    반도체 클러스터의 중심 
+                    인천의 중심 
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     NO.1 브랜드 인천계양 유탑유블레스와 함께합니다.
@@ -60,9 +60,9 @@ const contents = (text, isLoaded) => {
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     유블레스가 선택한 새도시!
                 </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                {/* <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     계양반도체클러스트 · 삼성 · SK 하이닉스의 프리미엄
-                </div>
+                </div> */}
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     가장 높은 브랜드의 첫 시작
                 </div>
@@ -75,7 +75,7 @@ const contents = (text, isLoaded) => {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    수준 높은 생활, 첨단신도시내 착한 브랜드 아파트
+                    수준 높은 생활, 인천계양내 착한 브랜드 오피스텔
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     기대하던 모든 프리미엄이 인천계양 유탑유블레스에서 펼쳐집니다
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간설계
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된인천계양 유탑유블레스, 처음이자 마지막으로 계양의 핵심중심에 찾아옵니다
+                    소수에게만 허락된인천계양 유탑유블레스, 계양의 핵심중심에 찾아옵니다
                 </div>
             </>
         );

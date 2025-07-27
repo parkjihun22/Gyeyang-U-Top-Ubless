@@ -13,9 +13,9 @@ import page1 from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "단지 배치도", url: "/ComplexGuide/intro" },
-    { title: "호수 배치도", url: "/ComplexGuide/detailintro" },
-    { title: "커뮤니티", url: "/ComplexGuide/community" },
+		{ title: "단지 배치도", url: "/ComplexGuide/intro" },
+		{ title: "호수 배치도", url: "/ComplexGuide/detailintro" },
+		// { title: "커뮤니티", url: "/ComplexGuide/community" },
   ];
   const [isScroll, setIsScroll] = useState(false);
   const [isImage2Loaded, setIsImage2Loaded] = useState(false); // 이미지 로딩 상태 추가
@@ -140,7 +140,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>인천계양 유탑유블레스가 눈부신 가치 위에</div>
+        <div>인천계양의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 

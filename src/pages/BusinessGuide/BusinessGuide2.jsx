@@ -140,8 +140,8 @@ const BusinessGuide2 = () => {
             </p>
 
             <div className={styles.textBox}>
-                <div>인천계양 유탑유블레스의 눈부신 가치 위에</div>
-                <div>인천계양 유탑유블레스의 새로운 자부심으로 찾아옵니다.</div>
+                <div>인천계양의 눈부신 가치 위에</div>
+                <div>유탑유블레스의 새로운 자부심으로 찾아옵니다.</div>
             </div>
 
             {/* ✅ 기존 이미지 부분 주석 처리하고 Ready 컴포넌트 표시 */}

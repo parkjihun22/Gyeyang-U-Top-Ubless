@@ -25,17 +25,17 @@ const menuArray = [
     title: "사업개요",
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
-      { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
+      // { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
       // { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
   {
-    title: "청약안내",
+    title: "근리생활-판매시설",
     subMenu: [
-      { subTitle: "청약제도변경", subUrl: "/SalesInfo/SubscriptionGuide" },
-      // { subTitle: "인터넷청약", subUrl: "/SalesInfo/guide" },
-      { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-      // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
+      { subTitle: "근리생활-판매시설", subUrl: "/SalesInfo/SubscriptionGuide" },
+      // // { subTitle: "인터넷청약", subUrl: "/SalesInfo/guide" },
+      // { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
+      // // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
     ],
   },
   {
@@ -51,28 +51,28 @@ const menuArray = [
     subMenu: [
       { subTitle: "단지 배치도", subUrl: "/ComplexGuide/intro" },
       { subTitle: "호수 배치도", subUrl: "/ComplexGuide/detailintro" },
-      { subTitle: "커뮤니티", subUrl: "/ComplexGuide/community" },
+      // { subTitle: "커뮤니티", subUrl: "/ComplexGuide/community" },
     ],
   },
   {
     title: "세대안내",
     subMenu: [
-      { subTitle: "59A", subUrl: "/FloorPlan/59A" },
-      { subTitle: "59B", subUrl: "/FloorPlan/59B" },
-      { subTitle: "84A", subUrl: "/FloorPlan/84A" },
-      { subTitle: "84B", subUrl: "/FloorPlan/84B" },
-      { subTitle: "84C", subUrl: "/FloorPlan/114A" },
-      { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
+      { subTitle: "40A·B", subUrl: "/FloorPlan/59A" },
+      { subTitle: "59A·B·C·D", subUrl: "/FloorPlan/59B" },
+      // { subTitle: "84A", subUrl: "/FloorPlan/84A" },
+      // { subTitle: "84B", subUrl: "/FloorPlan/84B" },
+      // { subTitle: "84C", subUrl: "/FloorPlan/114A" },
+      // { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
 
     ],
   },
-  {
-    title: "인테리어",
-    subMenu: [
-      { subTitle: "59A", subUrl: "/Interior/59A" },
-      { subTitle: "84A", subUrl: "/Interior/84A" },
-    ],
-  },
+  // {
+  //   title: "인테리어",
+  //   subMenu: [
+  //     { subTitle: "59A", subUrl: "/Interior/59A" },
+  //     { subTitle: "84A", subUrl: "/Interior/84A" },
+  //   ],
+  // },
 ];
 
 const Header = () => {
@@ -104,9 +104,9 @@ const Header = () => {
         <div className={styles.mobileHeader}>
           <div onClick={() => setIsMobileMenu(!isMobileMenu)}>
             {!isMobileMenu ? (
-              <AiOutlineMenu className={styles.icon} size={25} color="#095052" />
+              <AiOutlineMenu className={styles.icon} size={25} color="#eb6101" />
             ) : (
-              <IoCloseSharp className={styles.icon} size={25} color="#095052" />
+              <IoCloseSharp className={styles.icon} size={25} color="#eb6101" />
             )}
           </div>
           {isMobileMenu && (
@@ -122,7 +122,7 @@ const Header = () => {
           </Link>
           {/* 모바일에서는 기존 전화 연결 a 태그 유지 */}
           <a href="tel:1533-8848">
-            <IoCall className={styles.icon} size={25} color="#095052" />
+            <IoCall className={styles.icon} size={25} color="#eb6101" />
           </a>
         </div>
         {/* 모바일에서도 팝업을 렌더링 (최상위에서) */}

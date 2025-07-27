@@ -64,7 +64,7 @@ const Interior2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>인천계양 유탑유블레스- 84A 인테리어</title>
+        <title>인천계양 유탑유블레스 - 인테리어</title>
         <meta
           name="description"
           content="84A타입의 인테리어 페이지에서는 인천계양 유탑유블레스의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
@@ -79,7 +79,7 @@ const Interior2 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="인천계양 유탑유블레스- 84A인테리어"
+          content="인천계양 유탑유블레스 - 인테리어"
         />
         <meta
           property="og:description"
@@ -100,7 +100,7 @@ const Interior2 = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="인천계양 유탑유블레스- 84A인테리어"
+          content="인천계양 유탑유블레스- 인테리어"
         />
         <meta
           name="twitter:description"
@@ -122,7 +122,7 @@ const Interior2 = () => {
 										{
 											"@context": "https://schema.org",
 											"@type": "WebPage",
-											"name": "인천계양 유탑유블레스- 84A인테리어",
+											"name": "인천계양 유탑유블레스- 인테리어",
 											"description": "84A타입의 인테리어 페이지에서는 인천계양 유탑유블레스의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 ",
 											"url": "https://www.a7lashare.com/Interior/84A"
@@ -142,15 +142,15 @@ const Interior2 = () => {
         인천계양 유탑유블레스- 84A 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 인천계양 유탑유블레스의 고급
-        84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이
+        84A타입의 인테리어 페이지에서는 인천계양 유탑유블레스의 고급
+        인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이
         결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의
-        84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수
+        인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수
         있습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>대우건설 유블레스, 반도체클러스터터의 눈부신 가치 위에</div>
+        <div>대우건설 유블레스, 인천의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 

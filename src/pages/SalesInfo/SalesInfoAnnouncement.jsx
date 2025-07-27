@@ -157,7 +157,7 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        인천계양 유탑유블레스- 모집공고안내
+        인천계양 유탑유블레스 - 모집공고안내
       </h1>
       <p className={styles.screenReaderOnly}>
         인천계양 유탑유블레스모집 공고는 분양 전 단계에서 중요한
@@ -173,7 +173,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="인천계양 유탑유블레스모집공고안내-image1"
+        alt="인천계양 유탑유블레스모집공고안내 -image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
          />
       {/* 입주자 모집공고 PDF로 보기 버튼 */}

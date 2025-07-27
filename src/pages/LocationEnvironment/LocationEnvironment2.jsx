@@ -137,7 +137,7 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        인천계양 유탑유블레스- 프리미엄
+        인천계양 유탑유블레스 - 프리미엄
       </h1>
       <p className={styles.screenReaderOnly}>
         인천계양 유탑유블레스만의 차별화된 프리미엄을 만나보세요. 고급스러운
@@ -146,7 +146,7 @@ const LocationEnvironment1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>반도체클러스터의 눈부신 가치 위에</div>
+        <div>인천계양의 눈부신 가치 위에</div>
         <div>인천계양 유탑유블레스의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 

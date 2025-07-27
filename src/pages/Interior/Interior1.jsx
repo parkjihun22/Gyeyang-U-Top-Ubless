@@ -137,7 +137,7 @@ const Interior1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        인천계양 유탑유블레스- 59A 인테리어
+        인천계양 유탑유블레스- 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
         인테리어 페이지에서는 인천계양 유탑유블레스의 고급 인테리어 디자인을

@@ -13,7 +13,7 @@ import bennerImg from "../../assets/ComplexGuide/ComplexGuide1/complex-1024x573.
 const items = [
   { key: "layout",    label: "단지배치도",    img: layoutImg },
   { key: "design",    label: "단지특화설계",  img: designImg },
-  { key: "community", label: "커뮤니티",      img: communityImg },
+  // { key: "community", label: "커뮤니티",      img: communityImg },
 ];
 
 export default function DarkComplexSection() {
@@ -31,7 +31,7 @@ export default function DarkComplexSection() {
       }}
     >
       <header className={styles.header}>
-        <div className={styles.preTitle}>ONE CLUSTER COMPLEX</div>
+        <div className={styles.preTitle}>U-Top-Ubless COMPLEX</div>
         <div className={styles.line} />
         <h2 className={styles.mainTitle}>단지안내</h2>
       </header>

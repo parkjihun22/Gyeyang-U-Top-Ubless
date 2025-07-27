@@ -24,36 +24,30 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>인천계양 유탑유블레스</span>
+          <span>인천광역시 계양구 효성동 오피스텔 신축공사</span>
         </li>
         <li>
           <strong>대지위치</strong>
           <span>
-            [1단지] 계양시 처인구 남동 산126-13
+          인천광역시 계양구 효성동 604번지 일원
           </span>
         </li>
         <li>
           <strong>건축규모</strong>
           <span>
-            [1단지] 지하 4층 ~ 지상 28층<br />
-            [2단지] 지하 3층 ~ 지상 28층<br />
-            [3단지] 지하 4층 ~ 지상 26층
+          지하3층~ 지상18층 총 2개동
           </span>
         </li>
         <li>
           <strong>주택형</strong>
           <span>
-            [1단지] 59A·B / 84A·B·C / 130㎡<br />
-            [2단지] 59A·B / 84A·B·C<br />
-            [3단지] 84A·B·C
+            40A·B / 59A·B·C·D
           </span>
         </li>
         <li>
           <strong>세대수</strong>
           <span>
-            [1단지] 1,681세대<br />
-            [2단지] 1,804세대<br />
-            [3단지] 239세대
+          오피스텔84실(총408실), 근린생활시설49개, 판매시설1개
           </span>
         </li>
       </ul>
@@ -86,8 +80,8 @@ const items = [
         <div className={styles.premiumIntro}>
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
-            반도체 클러스터의 중심으로 사는<br />
-            최고의 브랜드 아파트
+            계양의 중심으로 사는<br />
+            최고의 브랜드 오피스텔
           </p>
         </div>
         {/* 슬라이더 */}
@@ -101,37 +95,37 @@ function PremiumSlider() {
   const slides = [
     {
       img: slide1,
-      title: "미래가치를 높여주는 계양반도체벨트",
+      title: "미래가치를 높여주는 메머드급 배후수요",
       desc:
-        "삼성 · SK하이닉스 반도체 클러스터(계획), <br />계양반도체 클러스터 일반산업단지 L자형 반도체벨트의 비전",
+        "루원시티, 효성구역도시개발, 부평스마트산단 (국가산업단지) 등 <br /> 풍부한 배후수요",
     },
     {
       img: slide2,
       title: "의세권을 누리릴 수 있는 프리미엄",
       desc:
-        "오래된 의료경력을 갖고 있는<br />500병상 규모 명지병원 인접",
+        "오래된 의료경력을 갖고 있는<br />국제 성모병원 반경 3km이내",
     },
     {
       img: slide3,
       title: "광역으로 통하는 특급 교통",
       desc:
-        "국도42호선,국도45호선, 세종-포천고속도로 등 <br />편리한 교통망에 더해지는 반도체 클러스터",
+        "경인고속도로 지하화, 서울2호선연장(예정)등 <br /> 교통환경 개선 최대 수혜지<br />서울7호선, 인천1ㆍ2호선등 초역세권<br /> 획기적인 대중교통 개선으로 광역교통망  형성",
     },
     {
       img: slide4,
       title: "학교, 쇼핑,병원, 문화를 더 가깝게 <br /> 한걸음에 SMART 인프라",
-      desc: "대형 피트니스, 골프연습장, 독서실 등 입주민 전용 시설",
+      desc: "아이즈빌아울렛, 홈플러스, 롯데마트, 국제성모병원 등 <br /> 반경3km 이내 다양한 편의시설 위치",
     },
     {
       img: slide5,
-      title: "3,724세대 대단지 프리미엄",
+      title: "입주지원금 및 회사보유분 특별 선착순 분양",
       desc:
-        "총 3,724세대 인천계양 유탑메가타운으로 찾아옵니다",
+        "1천만원으로 계약서 발행 및 즉시입주가능 <br /> 입주지원금 및 회사보유분 특별 선착순 분양",
     },
     {
       img: slide6,
-      title: "확정된 미래가치 보장",
-      desc: "반도체 클러스터 연계 기대수익 및 브랜드 가치 상승",
+      title: "자연친화적 쾌적한 주거환경 프리미엄",
+      desc: "인천나비공원, 원적산공원, 갈산근린공원, <br />  트럼발트슐레, 루원시티문화공원등 공원인접, <br />  자연친화적 쾌적한 주거환경",
     },
   ];
 
@@ -170,7 +164,7 @@ function PremiumSlider() {
       onTouchEnd={handleTouchEnd}
     >
       <div className={styles.slide}>
-        <img src={slides[current].img} alt="인천계양 유탑유블레스" />
+        <img src={slides[current].img} alt="인천계양 유탑유블레스 프리미엄 이미지" />
         <div className={styles.caption}>
           <h4
             dangerouslySetInnerHTML={{ __html: slides[current].title.replace(/\n/g, "<br/>") }}
@@ -201,7 +195,7 @@ export default function MobileOverviewSection() {
     <section className={styles.overviewSection}>
       {/* ─── 헤더 영역 ─── */}
       <header className={styles.overviewHeader}>
-        <div className={styles.preTitle}>ONE CLUSTER BUSINESS</div>
+        <div className={styles.preTitle}>U-Top-Ubless BUSINESS</div>
         <div className={styles.line} />
         <h2 className={styles.mainTitle}>사업안내</h2>
       </header>

@@ -51,35 +51,35 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `3,724세대 랜드마크 유블레스`,
-    text2: `반도체클러스터를 대표할<br />
-			      대단지 브랜드 프리미엄`,
+    text1: `교통망개선 최대수혜지 계양유블레스`,
+    text2: `경인고속도로 지하화,<br /> 서울 2호선 연장(예정) 등<br />
+			      교통환경개선최대수혜지`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `여유로운 직주근접 단지`,
-    text2: `세계최대규모 반도체 클러스터<br />
-			      반도체벨트의 미래를 선점하는 수혜단지`,
+    text1: `풍부한 SMART 인프라`,
+    text2: `아이즈빌아울렛, 홈플러스,<br /> 롯데마트, 국제성모병원 등<br />
+			      반경 3km이내 다양한 편의시설위치`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
-    text1: `매머드 급 고품격 커뮤니티`,
-    text2: `대형 피트니스 센터 및<br />
-			      독서실 골프클럽 등 대규모 커뮤니티`,
+    text1: `자연친화적 프리미엄 오피스텔`,
+    text2: `인천나비공원, 원적산공원, 갈산근린공원 등<br />
+			      자연 친화적 쾌적한 주거환경`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `계약금 5%로 내집마련`,
-    text2: `입주자의 경제적 부담을 낮춘<br />
+    text1: `입주지원금 지원 및 즉시입주가능`,
+    text2: `입주지원금 지원으로 부담을 낮춘<br />
 			      내 집 마련의 기회`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
@@ -184,7 +184,7 @@ const handleInputChange = (e) => {
           name="description"
           content="인천계양 유탑유블레스ㅣ☎️(대표)1533-8848ㅣ인천계양 유탑유블레스ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
         />
-        <meta name="keywords" content="인천계양 유탑유블레스, 인천계양 유탑유블레스, 인천계양 유탑유블레스모델하우스" />
+        <meta name="keywords" content="인천계양 유탑유블레스, 계양유탑유블레스, 인천계양유탑유블레스모델하우스" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.a7lashare.com/" />
 
@@ -236,9 +236,9 @@ const handleInputChange = (e) => {
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "경기도 계양 은화삼지구",
-          "addressLocality": "계양",
-          "addressRegion": "경기도",
+          "streetAddress": "인천 계양,
+          "addressLocality": "인천 계양",
+          "addressRegion": "인천시",
           "postalCode": "우편번호"
         }
       }
@@ -280,11 +280,11 @@ const handleInputChange = (e) => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                1군 브랜드{" "}
-                <span className={styles.greyText}>브랜드 프리미엄</span> |
-                3,729세대{" "}
-                <span className={styles.greyText}>메머드급 대단지</span> |
-                계약금 5%로 내집마련기회{" "}
+                1천만원으로 계약서 발행{" "}
+                <span className={styles.greyText}>즉시입주 가능</span> |
+                입주지원금 지원 {" "}
+                <span className={styles.greyText}>선착순 분양중</span> |
+                풀옵션 가전 무상제공{" "}
                 <span className={styles.greyText}>착한조건</span>
               </div>
               <div className={styles.mainImageTitleBox}>
@@ -316,14 +316,15 @@ const handleInputChange = (e) => {
               <div className={styles.textBox}>
                 <div className={styles.text1}>Location</div>
                 <div className={styles.text2}>
-                  " 방문 예약 고객 전원 신세계상품권 100% 증정 "
+                  계양 유탑 유블레스 POINT
                 </div>
                 <div className={styles.text3}>
-                  - 3,724세대 메머드급 대단지 프리미엄 <br />- 은화삼 CC조망 및
-                  경안천 수변공원으로 쾌적한 힐링 라이프 <br />
-                  - 지역 내 주요 간선도로 및 교통망 개선을 통해 주요지역 연결
-                  광역교통망의 중심
-                  <br />- 모두를 누리는 인천계양 유탑유블레스
+                - 인천 1호선 이용시 계양역12분, 부평구청역 4분대 진입
+              <br />
+              - 경인고속도로지하화, 서울2호선연장(예정) <br />
+              - 아이즈빌아울렛, 홈플러스, 롯데마트 국제성모병원 반경3km이내 <br /> 
+              - 반경1km 이내효성서초등학교, 북인천여자중학교, 청천초등학교등 인접
+              <br />- 모두를 누리는 인천계양 유탑유블레스
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -356,7 +357,7 @@ const handleInputChange = (e) => {
                   소수만 누릴 수 있는
                   <br />
                   <span>
-                    최고의 브랜드 아파트 <br />
+                    최고의 브랜드 계양유탑유블레스 <br />
                     
                   </span>
                 </div>
@@ -365,7 +366,7 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    가 함께합니다
+                    계양유탑유블레스가 함께합니다
                   </div>
                 </div>
               </div>
@@ -474,7 +475,7 @@ const handleInputChange = (e) => {
   {/* 입력 폼 */}
   <form
     className={styles.pcVisitForm}
-    action="https://formspree.io/f/mbldpwpz"
+    action="https://formspree.io/f/xrblqwll"
     method="POST"
   >
     <label htmlFor="name">
@@ -595,23 +596,21 @@ const handleInputChange = (e) => {
   {/* 기존 텍스트 */}
   <div className={styles.mainImageTextBox1}>
     <div className={styles.mainImageTextSub1}>
-      최첨단 반도체클러스터 중심의
+      1천만원으로 계약서 발행
       <br />
-      <span className={styles.greyText1}>높은 미래가치</span>
+      <span className={styles.greyText1}>즉시입주 가능</span>
       <br />
-      1군브랜드
+      입주지원금 지원
       <br />
-      <span className={styles.greyText1}>브랜드 프리미엄</span>
+      <span className={styles.greyText1}>선착순 분양중</span>
       <br />
-      계약금 5%로 내집마련기회
+      풀옵션 가전 무상제공
       <br />
       <span className={styles.greyText1}>착한조건</span>
     </div>
     <div className={styles.mainImageTitleBox1}>
       <div className={styles.mainImageText1}>
         인천계양 유탑유블레스
-        <br />
-        2,3단지
       </div>
     </div>
   </div>
@@ -626,10 +625,11 @@ const handleInputChange = (e) => {
               인천계양 유탑유블레스 POINT
             </div>
             <div className={styles.text3}>
-              - 3,724세대 메머드급 대단지 프리미엄
+              - 인천 1호선 이용시 계양역12분, 부평구청역 4분대 진입
               <br />
-              - 은화삼 CC조망 및 경안천 수변공원으로 쾌적한 힐링 라이프 <br />
-              - 지역 내 주요 간선도로 및 교통망 개선을 통해 <br /> - 주요지역 연결 광역교통망의 중심
+              - 경인고속도로지하화, 서울2호선연장(예정) <br />
+              - 아이즈빌아울렛, 홈플러스, 롯데마트 국제성모병원 반경3km이내 <br /> 
+              - 반경1km 이내효성서초등학교, 북인천여자중학교, 청천초등학교등 인접
               <br />- 모두를 누리는 인천계양 유탑유블레스
             </div>
             <div className={styles.text4}>
@@ -664,16 +664,16 @@ const handleInputChange = (e) => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                반도체 클러스터의 중심으로 사는
+                인천계양의 중심으로 사는
                 <br />
-                <span>최고의 브랜드 아파트</span>
+                <span>최고의 브랜드</span>
               </div>
               <div className={styles.subTitle}>
                 <div className={styles.textLine}></div>
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  가 함께합니다
+                  계양 유탑 유블레스가 함께합니다
                 </div>
               </div>
             </div>
@@ -754,7 +754,7 @@ const handleInputChange = (e) => {
 
   <form
     className={styles.mobileVisitForm}
-    action="https://formspree.io/f/mbldpwpz"
+    action="https://formspree.io/f/xrblqwll"
     method="POST"
   >
     <label htmlFor="name">

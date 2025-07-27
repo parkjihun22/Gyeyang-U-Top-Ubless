@@ -71,7 +71,7 @@ const BusinessGuide2 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>인천계양 유탑유블레스- 당첨자 서류안내</title>
+		<title>인천계양 유탑유블레스 - 당첨자 서류안내</title>
 		<meta
 		  name="description"
 		  content="인천계양 유탑선착순계약을 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
@@ -147,7 +147,7 @@ const BusinessGuide2 = () => {
 			<p className={styles.screenReaderOnly}>계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해 안내합니다. 계약 체결을 위해 준비해야 할 서류 목록과 함께, 각 서류의 제출 기한과 정확한 준비 방법을 안내하여 고객들이 혼동 없이 준비할 수 있도록 돕습니다.</p>
 
 			<div className={styles.textBox}>
-				<div>인천계양 유탑유블레스의 눈부신 가치 위에</div>
+				<div>인천계양의 눈부신 가치 위에</div>
 				<div>인천계양 유탑유블레스의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

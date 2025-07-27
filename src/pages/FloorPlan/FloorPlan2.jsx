@@ -14,13 +14,13 @@ import page1 from "../../assets/FloorPlan/FloorPlan2/page1.jpg"
 
 const FloorPlan2 = () => {
 	const menuContents = [
-		{ title: "59A", url: "/FloorPlan/59A" },
-		{ title: "59B", url: "/FloorPlan/59B" },
-		{ title: "84A", url: "/FloorPlan/84A" },
-		{ title: "84B", url: "/FloorPlan/84B" },
-		{ title: "84C", url: "/FloorPlan/114A" },
+		{ title: "40A·B", url: "/FloorPlan/59A" },
+		{ title: "59A·B·C·D", url: "/FloorPlan/59B" },
+		// { title: "84A", url: "/FloorPlan/84A" },
+		// { title: "84B", url: "/FloorPlan/84B" },
+		// { title: "84C", url: "/FloorPlan/114A" },
 		// { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
-		{ title: "E-모델하우스", url: "/FloorPlan/Emodel" },
+		// { title: "E-모델하우스", url: "/FloorPlan/Emodel" },
 	];
 
 
@@ -64,12 +64,12 @@ const FloorPlan2 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>계양 인천계양 유탑유블레스- 59B 평면안내 </h1>
+            <h1 className={styles.screenReaderOnly}>계양 인천계양 유탑유블레스- 59 평면안내 </h1>
 			<p className={styles.screenReaderOnly}>59B타입의평면 안내 페이지는 인천계양 유탑유블레스의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
 			</p>
 
 			<div className={styles.textBox}>
-				<div>인천계양 유탑유블레스의 눈부신 가치 위에</div>
+				<div>인천계양의 눈부신 가치 위에</div>
 				<div>유블레스의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -77,7 +77,7 @@ const FloorPlan2 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="인천계양 유탑유블레스 59B 평면안내 이미지"
+				alt="인천계양 유탑유블레스 59 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

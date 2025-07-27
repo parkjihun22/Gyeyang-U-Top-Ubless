@@ -14,7 +14,7 @@ export default function UnitPlanSection() {
     <section className={styles.wrapper}>
       {/* ─── 헤더 ─── */}
       <div className={styles.header}>
-        <div className={styles.preTitle}>ONE CLUSTER UNIT PLAN</div>
+        <div className={styles.preTitle}>U-Top-Ubless UNIT PLAN</div>
         <div className={styles.line} />
         <h2 className={styles.title}>
           {openKey === "types"
@@ -55,7 +55,7 @@ export default function UnitPlanSection() {
         </div>
 
         {/* 사이버모델하우스 */}
-        <div className={styles.accordionItem}>
+        {/* <div className={styles.accordionItem}>
           <button
             className={`${styles.accordionHeader} ${
               openKey === "vr" ? styles.active : ""
@@ -74,7 +74,7 @@ export default function UnitPlanSection() {
               <EmodelInline />
             </div>
           )}
-        </div>
+        </div> */}
       </div>
     </section>
   );
