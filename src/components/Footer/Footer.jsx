@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "인천계양 유탑유블레스", url: "https://www.beyinegzersizi.com" },
+  { name: "인천계양 유탑유블레스", url: "https://www.a7lashare.com/" },
 ];
 
 const Footer = () => {
