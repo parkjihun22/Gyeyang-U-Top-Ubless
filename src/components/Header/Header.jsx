@@ -30,9 +30,9 @@ const menuArray = [
     ],
   },
   {
-    title: "근리생활-판매시설",
+    title: "근린생활-판매시설",
     subMenu: [
-      { subTitle: "근리생활-판매시설", subUrl: "/SalesInfo/SubscriptionGuide" },
+      { subTitle: "근린생활-판매시설", subUrl: "/SalesInfo/SubscriptionGuide" },
       // // { subTitle: "인터넷청약", subUrl: "/SalesInfo/guide" },
       // { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
       // // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
